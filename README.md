@@ -7,10 +7,10 @@ First of all, you might:
     <li>Use command "npm install"</li>
 </ul>
 
-#Use Project
+# Use Project
 
 <ol>
     <li>Use command "gulp" after installation </li>
 </ol>
 
-#ENJOY!!!
+# ENJOY!!!
